@@ -64,7 +64,7 @@ Methodology for AI algorithms for Ultra low level constraint devices
 between the actors and users and generalization among use cases.
 •	The use case model defines the outside (actors) and inside (use case) of the system’s behavior.
 
-![image](https://github.com/user-attachments/assets/6a0cec5e-1e7f-47fb-b83e-94d380fcce6b)
+
 
 
 
@@ -99,6 +99,8 @@ is enabled, minimizing energy consumption from data transmission.
 •	JTAG/SWD Debuggers: For debugging and optimizing firmware on embedded devices.
 
 ### Output
+
+![image](https://github.com/user-attachments/assets/6a0cec5e-1e7f-47fb-b83e-94d380fcce6b)
 
 ![image](https://github.com/user-attachments/assets/ac5f8cf2-062b-48f3-8a7e-c4436bda34fe)
 
